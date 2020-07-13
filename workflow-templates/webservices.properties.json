@@ -1,0 +1,5 @@
+{
+    "name": "conda-smithy rerenderer",
+    "description": "conda-forge workflow rerendering PRs with conda-smithy",
+    "iconName": "conda-forge",
+}

@@ -1,5 +1,5 @@
 name: Bug report
-description: Rerport a bug with this package.
+description: Report a bug with this package.
 labels: bug
 body:
   - type: markdown

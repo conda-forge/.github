@@ -22,7 +22,7 @@ body:
     attributes:
       label: Issue
       description: |
-        Please descripe the issue you are experiencing:
+        Please describe the issue you are experiencing:
     validations:
       required: true
 

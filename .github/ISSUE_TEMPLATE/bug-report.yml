@@ -1,5 +1,5 @@
 name: Bug report
-description: Rerport a bug with this package.
+description: Report a bug with this package.
 labels: bug
 body:
   - type: markdown
@@ -22,7 +22,7 @@ body:
     attributes:
       label: Issue
       description: |
-        Please descripe the issue you are experiencing:
+        Please describe the issue you are experiencing:
     validations:
       required: true
 

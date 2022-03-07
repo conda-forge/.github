@@ -1,0 +1,8 @@
+name: Bot command
+description: Trigger a bot command
+labels: bot-command
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please enter the bot command as the title of this issue and do not change anything else. An up-to-date list of all commands can be found in the conda-forge [docs](https://conda-forge.org/docs/maintainer/infrastructure.html#admin-web-services).

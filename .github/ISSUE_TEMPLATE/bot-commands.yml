@@ -14,5 +14,5 @@ body:
   - type: textarea
     id: comment
     attributes:
-      - label: "Additional comment:"
-      - placeholder: "Not required"
+      label: "Additional comment:"
+      placeholder: "Not required"

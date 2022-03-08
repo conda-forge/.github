@@ -5,4 +5,4 @@ body:
   - type: textarea
     id: comment
     attributes:
-       label: "General comment:"
+       label: "Comment:"

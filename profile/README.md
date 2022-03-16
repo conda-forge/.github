@@ -13,3 +13,4 @@ Important git repositories
 - [conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock) - Global pinnings in conda-forge and migration information
 - [docker-images](https://github.com/conda-forge/docker-images) - Docker images used to build conda-forge packages (`linux-*` and `noarch` only)
 - [conda-forge-ci-setup-feedstock](https://github.com/conda-forge/conda-forge-ci-setup-feedstock) - Build-time settings for each CI run
+- [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge

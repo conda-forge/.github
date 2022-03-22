@@ -1,0 +1,8 @@
+name: General question
+description: Ask a general question about the feedstock
+labels: question
+body:
+  - type: textarea
+    id: comment
+    attributes:
+       label: "Comment:"

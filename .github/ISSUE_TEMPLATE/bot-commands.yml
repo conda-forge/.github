@@ -1,6 +1,5 @@
 name: Bot commands
 description: Enter a bot command
-labels: bot-command
 body:
   - type: markdown
     attributes:

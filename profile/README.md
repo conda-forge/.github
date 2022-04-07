@@ -7,6 +7,7 @@ Important git repositories
 - [miniforge](https://github.com/conda-forge/miniforge) - An installer with conda-forge as the default channel
 - [conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - website and tracker for general conda-forge problems and enhancements
 - [feedstocks](https://github.com/conda-forge/feedstocks) - A monorepo containing all feedstocks as submodules
+- [feedstock-outputs](https://github.com/conda-forge/feedstock-outputs) - Repo holding the authoritative mapping between feedstocks and conda packages
 - [conda-smithy](https://github.com/conda-forge/conda-smithy) - The tool for managing conda-forge feedstocks.
 - [admin-requests](https://github.com/conda-forge/admin-requests) - Github repo to ask [conda-forge/core](https://github.com/orgs/conda-forge/teams/core) to mark a package as broken
 - [conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock) - Git repo that track hotfixing of package metadata

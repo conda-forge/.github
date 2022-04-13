@@ -3,7 +3,7 @@
 conda-forge is a community led collection of recipes, build infrastructure and distributions for the conda package manager.
 
 Important git repositories
-- [staged-recipes](https://github.com/conda-forge/staged-recipes) - place to submit new recipes
+- [staged-recipes](https://github.com/conda-forge/staged-recipes) - The place to submit new recipes
 - [miniforge](https://github.com/conda-forge/miniforge) - An installer with conda-forge as the default channel
 - [conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - website and tracker for general conda-forge problems and enhancements
 - [feedstocks](https://github.com/conda-forge/feedstocks) - A monorepo containing all feedstocks as submodules
@@ -15,3 +15,4 @@ Important git repositories
 - [docker-images](https://github.com/conda-forge/docker-images) - Docker images used to build conda-forge packages (`linux-*` and `noarch` only)
 - [conda-forge-ci-setup-feedstock](https://github.com/conda-forge/conda-forge-ci-setup-feedstock) - Build-time settings for each CI run
 - [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge
+- [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge

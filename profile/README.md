@@ -12,6 +12,7 @@ Important git repositories
 - [admin-requests](https://github.com/conda-forge/admin-requests) - Github repo to ask [conda-forge/core](https://github.com/orgs/conda-forge/teams/core) to mark a package as broken
 - [conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock) - Git repo that track hotfixing of package metadata
 - [conda-forge-pinning-feedstock](https://github.com/conda-forge/conda-forge-pinning-feedstock) - Global pinnings in conda-forge and migration information
+- [conda-forge-webservices](https://github.com/conda-forge/conda-forge-webservices) - The source code to run conda-forge admin commands and linting
 - [docker-images](https://github.com/conda-forge/docker-images) - Docker images used to build conda-forge packages (`linux-*` and `noarch` only)
 - [conda-forge-ci-setup-feedstock](https://github.com/conda-forge/conda-forge-ci-setup-feedstock) - Build-time settings for each CI run
 - [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge

@@ -1,5 +1,0 @@
-{
-    "name": "Auto merge PRs",
-    "description": "conda-forge workflow for auto merging PRs with labels when CI pass",
-    "iconName": "conda-forge",
-}

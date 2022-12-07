@@ -1,8 +1,9 @@
-## Hi there 👋
+Hi there 👋
 
 conda-forge is a community led collection of recipes, build infrastructure and distributions for the conda package manager.
 
 Important git repositories
+
 - [staged-recipes](https://github.com/conda-forge/staged-recipes) - The place to submit new recipes
 - [miniforge](https://github.com/conda-forge/miniforge) - An installer with conda-forge as the default channel
 - [conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - website and tracker for general conda-forge problems and enhancements
@@ -21,3 +22,31 @@ Important git repositories
 - [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge
 - [admin-migrations](https://github.com/conda-forge/admin-migrations) - Admin related jobs for managing conda-forge
 - [artifact-validation](https://github.com/conda-forge/artifact-validation) - Admin related jobs for curating conda-forge artifacts
+
+# License and Authors
+
+Licensed under MIT (https://opensource.org/licenses/MIT)
+
+* Author:: Denis Baryshev (dennybaa@gmail.com)
+
+- 👋 Hi, I’m @kiajfaty
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+kiajfaty/kiajfaty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+<!---
+<html>
+<head><title>405 Not Allowed</title></head>
+<body bgcolor="white">
+<center><h1>405 Not Allowed</h1></center>
+</body>
+</html>
+--->
+

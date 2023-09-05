@@ -21,4 +21,3 @@ Important git repositories
 - [blog](https://github.com/conda-forge/blog) - The conda-forge blog
 - [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge
 - [admin-migrations](https://github.com/conda-forge/admin-migrations) - Admin related jobs for managing conda-forge
-- [artifact-validation](https://github.com/conda-forge/artifact-validation) - Admin related jobs for curating conda-forge artifacts

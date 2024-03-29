@@ -18,6 +18,5 @@ Important git repositories
 - [conda-forge-ci-setup-feedstock](https://github.com/conda-forge/conda-forge-ci-setup-feedstock) - Build-time settings for each CI run
 - [status](https://github.com/conda-forge/status) - Repo for status page and to track service outages
 - [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge
-- [blog](https://github.com/conda-forge/blog) - The conda-forge blog
 - [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge
 - [admin-migrations](https://github.com/conda-forge/admin-migrations) - Admin related jobs for managing conda-forge

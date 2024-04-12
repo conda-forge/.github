@@ -20,3 +20,4 @@ Important git repositories
 - [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge
 - [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge
 - [admin-migrations](https://github.com/conda-forge/admin-migrations) - Admin related jobs for managing conda-forge
+- [CFEP](https://github.com/conda-forge/cfep) - Conda-forge Enhancement Proposals for defining community-wide policies

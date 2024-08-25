@@ -21,3 +21,5 @@ Important git repositories
 - [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge
 - [admin-migrations](https://github.com/conda-forge/admin-migrations) - Admin related jobs for managing conda-forge
 - [CFEP](https://github.com/conda-forge/cfep) - Conda-forge Enhancement Proposals for defining community-wide policies
+- [webservices-dispatch-action](https://github.com/conda-forge/webservices-dispatch-action) - GitHub action for webservices jobs
+- [automerge-action](https://github.com/conda-forge/automerge-action) - GitHub action for automerge service

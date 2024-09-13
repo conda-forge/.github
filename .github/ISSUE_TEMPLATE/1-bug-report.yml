@@ -1,6 +1,6 @@
 name: Bug report
 description: Report a bug with this package.
-labels: bug
+labels: [bug]
 body:
   - type: markdown
     attributes:

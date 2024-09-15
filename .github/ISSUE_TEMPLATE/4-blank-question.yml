@@ -1,6 +1,6 @@
 name: General question
 description: Ask a general question about the feedstock
-labels: question
+labels: [question]
 body:
   - type: textarea
     id: comment

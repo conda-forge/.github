@@ -26,6 +26,5 @@ Other Infrastructure-related git repositories
 - [docker-images](https://github.com/conda-forge/docker-images) - Docker images used to build conda-forge packages (`linux-*` and `noarch` only)
 - [conda-forge-ci-setup-feedstock](https://github.com/conda-forge/conda-forge-ci-setup-feedstock) - Build-time settings for each CI run
 - [admin-migrations](https://github.com/conda-forge/admin-migrations) - Admin related jobs for managing conda-forge
-- [webservices-dispatch-action](https://github.com/conda-forge/webservices-dispatch-action) - GitHub action for webservices jobs
 - [automerge-action](https://github.com/conda-forge/automerge-action) - GitHub action for automerge service
 - [conda-forge-feedstock-ops](https://github.com/conda-forge/conda-forge-feedstock-ops) - Containerized maintenance operations for feedstocks

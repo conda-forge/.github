@@ -6,7 +6,7 @@ body:
       value: |
         Please enter the bot command in the title of the issue and do not modify it further. The conda-forge bots will then trigger the relevant action.
         
-        In case nothing happens, [please feel free to reach out]( https://conda-forge.org/community/getting-in-touch/ ) community chat.
+        In case nothing happens, [please feel free to reach out]( https://conda-forge.org/community/getting-in-touch/ ).
         
         A full list of bot commands is available in the [conda-forge webservices docs](https://conda-forge.org/docs/maintainer/infrastructure/#admin-web-services).
 

@@ -13,7 +13,7 @@ body:
         See below a quick summary of the available commands:
 
           - @conda-forge-admin, please rerender: Reruns the feedstock rendering and pushes the changes to the PR.
-          - @conda-forge-admin, please add noarch: python: Adds noarch: python to the build configuration and rerenders the feedstock.
+          - @conda-forge-admin, please add noarch: python: Adds `noarch: python` to the build configuration and rerenders the feedstock.
           - @conda-forge-admin, please lint: Reruns the recipe linting check in the PR.
           - @conda-forge-admin, please update team: Updates the feedstock maintenance team.
           - @conda-forge-admin, please restart ci: Restarts all CI builds by reopening the PR.

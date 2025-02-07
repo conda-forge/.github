@@ -16,7 +16,6 @@ body:
           - @conda-forge-admin, please add noarch: python: Adds `noarch: python` to the build configuration and rerenders the feedstock.
           - @conda-forge-admin, please lint: Reruns the recipe linting check in the PR.
           - @conda-forge-admin, please update team: Updates the feedstock maintenance team.
-          - @conda-forge-admin, please restart ci: Restarts all CI builds by reopening the PR.
           - @conda-forge-admin, please ping team: Mentions the feedstock maintenance team in the PR.
           - @conda-forge-admin, please ping conda-forge: Mentions the relevant conda-forge team in the PR.
           - @conda-forge-admin, please rerun bot: Adds the bot-rerun label to the PR, which reruns the migration and version update bot.

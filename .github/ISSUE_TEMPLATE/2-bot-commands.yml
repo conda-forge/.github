@@ -12,18 +12,18 @@ body:
 
         See below a quick summary of the available commands:
 
-          - @conda-forge-admin, please rerender: Relance le rendu du feedstock et pousse les changements dans la PR.
-          - @conda-forge-admin, please add noarch: python: Ajoute noarch: python à la configuration de build et relance le rendu du feedstock.
-          - @conda-forge-admin, please lint: Relance la vérification de la recette (linting) dans la PR.
-          - @conda-forge-admin, please update team: Met à jour l'équipe de maintenance du feedstock.
-          - @conda-forge-admin, please restart ci: Redémarre l'ensemble des builds CI en rouvrant la PR.
-          - @conda-forge-admin, please ping team: Mentionne l'équipe de maintenance du feedstock dans la PR.
-          - @conda-forge-admin, please ping conda-forge/: Mentionne l'équipe conda-forge concernée dans la PR.
-          - @conda-forge-admin, please rerun bot: Ajoute le label bot-rerun à la PR, ce qui relance le bot de migration et de mise à jour de version.
-          - @conda-forge-admin, please add bot automerge: Ouvre une PR pour activer la fusion automatique des PR du bot auto-tick.
-          - @conda-forge-admin, please remove bot automerge: Ouvre une PR pour désactiver la fusion automatique des PR du bot.
-          - @conda-forge-admin, please add user @username: Ouvre une PR pour ajouter un utilisateur à l'équipe de maintenance du feedstock.
-          - @conda-forge-admin, please update version: Vérifie si de nouvelles versions du paquet sont disponibles et ouvre une PR avec les changements nécessaires.
+          - @conda-forge-admin, please rerender: Reruns the feedstock rendering and pushes the changes to the PR.
+          - @conda-forge-admin, please add noarch: python: Adds noarch: python to the build configuration and rerenders the feedstock.
+          - @conda-forge-admin, please lint: Reruns the recipe linting check in the PR.
+          - @conda-forge-admin, please update team: Updates the feedstock maintenance team.
+          - @conda-forge-admin, please restart ci: Restarts all CI builds by reopening the PR.
+          - @conda-forge-admin, please ping team: Mentions the feedstock maintenance team in the PR.
+          - @conda-forge-admin, please ping conda-forge: Mentions the relevant conda-forge team in the PR.
+          - @conda-forge-admin, please rerun bot: Adds the bot-rerun label to the PR, which reruns the migration and version update bot.
+          - @conda-forge-admin, please add bot automerge: Opens a PR to enable automerge for PRs from the auto-tick bot.
+          - @conda-forge-admin, please remove bot automerge: Opens a PR to disable automerge for bot PRs.
+          - @conda-forge-admin, please add user @username: Opens a PR to add a user to the feedstock maintainer team.
+          - @conda-forge-admin, please update version: Checks for new package versions and opens a PR with the necessary changes.
 
   - type: textarea
     id: comment

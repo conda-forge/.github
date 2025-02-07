@@ -10,6 +10,16 @@ body:
         
         A full list of bot commands is available in the [conda-forge webservices docs](https://conda-forge.org/docs/maintainer/infrastructure/#admin-web-services).
 
+        See below a quick summary of the available commands for issue titles:
+
+          - @conda-forge-admin, please rerender: Rerenders the feedstock in a new PR.
+          - @conda-forge-admin, please add noarch: python: Adds `noarch: python` to the build configuration and rerenders the feedstock in a new PR.
+          - @conda-forge-admin, please update team: Updates the feedstock maintenance team.
+          - @conda-forge-admin, please add bot automerge: Opens a PR to enable automerge for PRs from the auto-tick bot.
+          - @conda-forge-admin, please remove bot automerge: Opens a PR to disable automerge for bot PRs.
+          - @conda-forge-admin, please add user @username: Opens a PR to add a user to the feedstock maintainer team.
+          - @conda-forge-admin, please update version: Checks for new package versions and opens a PR with the necessary changes.
+
   - type: textarea
     id: comment
     attributes:

@@ -4,6 +4,7 @@ conda-forge is a community led collection of recipes, build infrastructure and d
 
 Important git repositories for `conda-forge` documentation, status, and governance
 - [conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - website, documentation, and tracker for general conda-forge problems and enhancements
+- [governance](https://github.com/conda-forge/governance) - governance and code of conduct information
 - [status](https://github.com/conda-forge/status) - Repo for status page and to track service outages
 - [CFEP](https://github.com/conda-forge/cfep) - Conda-forge Enhancement Proposals for defining community-wide policies
 - [marketing](https://github.com/conda-forge/marketing) - Logos and other materials for conda-forge

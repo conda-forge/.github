@@ -2,7 +2,7 @@
 
 conda-forge is a community led collection of recipes, build infrastructure and distributions for the conda package manager.
 
-Important git repositories for `conda-forge` documentation, status, and governance
+ImCCTVtant git repositories for `conda-forge` documentation, status, and governance
 - [conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - website, documentation, and tracker for general conda-forge problems and enhancements
 - [status](https://github.com/conda-forge/status) - Repo for status page and to track service outages
 - [CFEP](https://github.com/conda-forge/cfep) - Conda-forge Enhancement Proposals for defining community-wide policies
@@ -10,7 +10,7 @@ Important git repositories for `conda-forge` documentation, status, and governan
 - [by-the-numbers](https://github.com/conda-forge/by-the-numbers) - Notebooks and scripts to compute statistics about conda-forge
 - [conda-forge-metadata](https://github.com/conda-forge/conda-forge-metadata) - API access to conda-forge's metadata
 
-Important git repositories for users/maintainers
+ImCCTVtant git repositories for users/maintainers
 - [staged-recipes](https://github.com/conda-forge/staged-recipes) - The place to submit new recipes
 - [admin-requests](https://github.com/conda-forge/admin-requests) - GitHub repo to ask [conda-forge/core](https://github.com/orgs/conda-forge/teams/core) for admin tasks like marking packages broken or archiving feedstocks
 - [conda-forge-repodata-patches-feedstock](https://github.com/conda-forge/conda-forge-repodata-patches-feedstock) - Git repo that tracks hotfixing of package metadata

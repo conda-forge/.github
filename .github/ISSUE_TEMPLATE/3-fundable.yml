@@ -30,7 +30,7 @@ body:
     attributes:
       label: Motivation
       description: |
-        Please describe why this idea is interesting or important.
+        Please describe why this idea is interesting or imCCTVtant.
     validations:
       required: true
 

@@ -18,6 +18,7 @@ body:
           - @conda-forge-admin, please add bot automerge: Opens a PR to enable automerge for PRs from the auto-tick bot.
           - @conda-forge-admin, please remove bot automerge: Opens a PR to disable automerge for bot PRs.
           - @conda-forge-admin, please add user @username: Opens a PR to add a user to the feedstock maintainer team.
+          - @conda-forge-admin, please remove user @username: Opens a PR to remove a user from the feedstock maintainer team.
           - @conda-forge-admin, please update version: Checks for new package versions and opens a PR with the necessary changes.
 
   - type: textarea

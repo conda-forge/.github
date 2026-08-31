@@ -20,6 +20,7 @@ body:
           - @conda-forge-admin, please add user @username: Opens a PR to add a user to the feedstock maintainer team.
           - @conda-forge-admin, please remove user @username: Opens a PR to remove a user from the feedstock maintainer team.
           - @conda-forge-admin, please update version: Checks for new package versions and opens a PR with the necessary changes.
+          - @conda-forge-admin, please convert to v1: Attempt to convert a feedstock to the v1 recipe format.
 
   - type: textarea
     id: comment
